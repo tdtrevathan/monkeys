@@ -6,5 +6,22 @@
   {
     "Name": "India--Fakir with monkeys",
     "Image": "https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c25000/3c25500/3c25562r.jpg"
+  },
+  {
+    "Name": "Sad Monkey",
+    "Image": "https://tile.loc.gov/storage-services/service/pnp/thc/5a35000/5a35800/5a35865r.jpg"
+  },
+  {
+    "Name": "Baboons",
+    "Image": "https://tile.loc.gov/storage-services/service/pnp/pga/01300/01347r.jpg"
+  },
+  {
+    "Name": "Bunch of Monkeys",
+    "Image": "https://tile.loc.gov/storage-services/service/pnp/cai/2a11000/2a11800/2a11880r.jpg"
+  },
+  
+  {
+    "Name": "King Monkey",
+    "Image": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:20:19:0:wdl_20190:0003/full/pct:25/0/default.jpg"
   }
 ]
